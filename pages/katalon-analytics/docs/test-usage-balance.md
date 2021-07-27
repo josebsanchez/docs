@@ -52,11 +52,11 @@ The **Test Activities** panel displays your weekly testing activity as a bar cha
 
 Two numbers are displayed on the right side of the bar chart:
 
-- **Test Executions** represents the total number of tests executed the preceding week. Data includes tests run on Katalon TestOps as well as uploaded or linked test executions.
+* **Test Executions** represents the total number of tests executed the preceding week. Data includes tests run on Katalon TestOps as well as uploaded or linked test executions.
 
-- **Test Duration** represents the total time spent executing tests the preceding week. The duration data includes tests executed on Katalon TestOps as well as m uploaded or linked test executions.
+* **Test Duration** represents the total time spent executing tests the preceding week. The duration data includes tests executed on Katalon TestOps as well as m uploaded or linked test executions.
 
-Learn more about uploading test results to TestOps: [Upload Test Results to Katalon TestOps from Katalon Studio](https://docs.katalon.com/katalon-studio/docs/katalon-analytics-beta-integration.html)
+Learn more about uploading test results to TestOps: [Upload Test Results to Katalon TestOps from Katalon Studio](https://docs.katalon.com/katalon-studio/docs/katalon-analytics-beta-integration.html).
 
-See also: 
-[Upgrade TestOps Subscription](https://docs.katalon.com/katalon-analytics/docs/upgrade-subscriptions.html#add-more-test-results)
+See also:
+[Upgrade TestOps Subscription](https://docs.katalon.com/katalon-analytics/docs/upgrade-subscriptions.html#add-more-test-results).
