@@ -1213,6 +1213,8 @@ items:
                 url: /katalon-analytics/docs/upgrade-subscriptions.html
               - title: "Cancel Subscriptions"
                 url: /katalon-analytics/docs/cancel-subscriptions.html
+              - title: "View Test Usage and Balance in the Usage Dashboard" 
+                url: /katalon-analytics/docs/test-usage-balance-usage-dashboard.html
       - title: "Get Started"
         tree:
           - title: "Welcome to Katalon TestOps"

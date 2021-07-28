@@ -16,7 +16,7 @@ description:
 
 - Introduced Auto-distributed execution. Users can automatically distribute tasks to active and available Agents. Learn more: [Auto-Distributed Execution](https://docs.katalon.com/katalon-analytics/docs/auto-distributed-execution.html)
 
-- Introduced Test Usage Validation. Users can view how many test runs remain until their subscription quota is capped.
+- Introduced Test Usage Validation. Users can view how many test runs remain until their subscription quota is capped. Learn more: [View Test Usage and Balance in the Usage Dashboard](docs.katalon.com/katalon-analytics/docs/test-usage-balance-usage-dashboard.html)
 
 ### Enhancements
 
