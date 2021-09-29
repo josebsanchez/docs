@@ -13,7 +13,7 @@ description:
 
 ### New Features
 
-Introduced Test Orchestration for Bitbucket repositories (sequential and parallel mode).
+Introduced Test Orchestration for Bitbucket repositories (sequential and parallel mode). Read more: [Upload Test Scripts from a Git Repository](https://docs.katalon.com/katalon-analytics/docs/git-test-project.html)
 Introduced a new flow to schedule test runs. Read more: [Create Test Plan](https://docs.katalon.com/katalon-analytics/docs/create-plan.html)
 
 ### Enhancements
